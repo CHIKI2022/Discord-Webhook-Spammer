@@ -1,7 +1,6 @@
 import os
 import sys
 import requests
-from ast import Delete
 from time import sleep
 from colorama import Fore
 from dhooks import Webhook
